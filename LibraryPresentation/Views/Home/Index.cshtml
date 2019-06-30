@@ -1,0 +1,57 @@
+﻿@model List<Library.Presentation.Models.BorrowModel>
+@{
+    ViewBag.Title = "Library Home";
+}
+
+
+
+@if (ViewBag.UserLogged)
+{
+    <div class="row">
+        <div class="col-md-4">
+            <h2>Borrowed books</h2>
+
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <table class="table table-responsive table-hover">
+                <thead>
+                    <tr>
+                        <th hidden>ID</th>
+                        <th>Name</th>
+                        <th>Author</th>
+                        <th>Genre</th>
+                        <th>Publisher</th>
+                        <th>Borrowed Date</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody id="dataBody">
+                    @foreach (var e in Model)
+                    {
+                        <tr>
+                            <td hidden>@e.BookingID</td>
+                            <td>@e.Book.Name</td>
+                            <td>@e.Book.Author</td>
+                            <td>@e.Book.Genre</td>
+                            <td>@e.Book.Publisher</td>
+                            <td>@e.Date</td>
+                        </tr>
+                    }
+                </tbody>
+
+            </table>
+        </div>
+
+    </div>
+}
+else
+{
+    <div class="row">
+        <div class="col-md-4">
+            <h2>Welcome to the Library</h2>
+
+        </div>
+    </div>
+}

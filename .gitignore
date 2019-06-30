@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Library.Core/bin/Debug
+/.vs/LibrarySolution/v15/Server/sqlite3
+/Library.Core/obj/Debug
+/Library.Core/Properties
+/Library.Data/bin/Debug
+/Library.Data/obj/Debug
+/Library.Data/Properties
+/LibraryPresentation/App_Data
+/LibraryPresentation/bin
+/LibraryPresentation/obj/Debug
+/LibraryPresentation/Properties
+/packages
+/Library.Business/bin/Debug
+/EventManager.Entity/bin/Debug
+/EventManager.Entity/obj/Debug
+/Library.Business/obj/Debug
+/Library.Business/Properties
