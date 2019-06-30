@@ -15,9 +15,9 @@ namespace Library.Business.Validators
             this.ValidateBorrowing(base.BusinessEntity);
         }
 
-        private void ValidateBorrowing(BorrowedBook booking)
+        private void ValidateBorrowing(BorrowedBook borrowedBook)
         {
-            base.LogValidationResult("Error message");
+            //base.LogValidationResult("Error message");
             //Business rules Validation
         }
     }

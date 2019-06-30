@@ -1,8 +1,6 @@
-﻿
-using Library.Entity;
+﻿using Library.Entity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using System.Data.Entity;
-using System.Data.Entity.Infrastructure;
 
 namespace Data.Base
 {
@@ -20,6 +18,6 @@ namespace Data.Base
         }
 
         public DbSet<Book> Books { get; set; }
-        public DbSet<BorrowedBook> Booking { get; set; }
+        public DbSet<BorrowedBook> BorrowedBook { get; set; }
     }
 }

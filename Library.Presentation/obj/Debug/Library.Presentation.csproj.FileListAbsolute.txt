@@ -1,0 +1,696 @@
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Library.Presentation.dll.config
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Library.Presentation.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Library.Presentation.pdb
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\csc.exe
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\csc.exe.config
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\csc.rsp
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\csi.exe
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\csi.exe.config
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\csi.rsp
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\System.AppContext.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\System.Console.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\vbc.exe
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\vbc.exe.config
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\vbc.rsp
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.Win32.Primitives.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\netstandard.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.AppContext.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Collections.Concurrent.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Collections.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Collections.NonGeneric.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Collections.Specialized.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.ComponentModel.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.ComponentModel.Primitives.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Console.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Data.Common.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Diagnostics.Contracts.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Diagnostics.Debug.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Diagnostics.Process.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Diagnostics.StackTrace.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Diagnostics.Tools.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Diagnostics.TraceSource.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Diagnostics.Tracing.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Drawing.Primitives.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Dynamic.Runtime.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Globalization.Calendars.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Globalization.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Globalization.Extensions.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.IO.Compression.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.IO.Compression.ZipFile.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.IO.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.IO.FileSystem.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.IO.IsolatedStorage.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.IO.Pipes.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Linq.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Linq.Expressions.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Linq.Parallel.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Linq.Queryable.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Net.Http.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Net.NameResolution.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Net.NetworkInformation.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Net.Ping.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Net.Primitives.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Net.Requests.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Net.Security.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Net.Sockets.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Net.WebHeaderCollection.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Net.WebSockets.Client.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Net.WebSockets.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.ObjectModel.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Reflection.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Reflection.Extensions.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Reflection.Primitives.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Resources.Reader.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Resources.ResourceManager.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Resources.Writer.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Runtime.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Runtime.Extensions.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Runtime.Handles.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Runtime.InteropServices.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Runtime.Numerics.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Runtime.Serialization.Json.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Security.Claims.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Security.Cryptography.Csp.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Security.Principal.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Security.SecureString.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Text.Encoding.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Text.Encoding.Extensions.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Text.RegularExpressions.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Threading.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Threading.Overlapped.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Threading.Tasks.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Threading.Thread.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Threading.ThreadPool.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Threading.Timer.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.ValueTuple.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Xml.ReaderWriter.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Xml.XDocument.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Xml.XmlDocument.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Xml.XmlSerializer.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Xml.XPath.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Xml.XPath.XDocument.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Antlr3.Runtime.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\AutoMapper.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\EntityFramework.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\EntityFramework.SqlServer.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\EventManager.Entity.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Library.Business.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Library.Core.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Library.Data.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.Owin.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.Owin.Security.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Newtonsoft.Json.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Owin.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Net.Http.Formatting.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Web.Helpers.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Web.Http.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Web.Http.WebHost.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Web.Mvc.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Web.Optimization.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Web.Razor.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Web.WebPages.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Unity.Abstractions.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Unity.Container.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Unity.Mvc.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\WebActivatorEx.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\WebGrease.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\EventManager.Entity.pdb
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\EventManager.Entity.dll.config
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Library.Business.pdb
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Library.Business.dll.config
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Library.Core.pdb
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Library.Data.pdb
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Library.Data.dll.config
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\AutoMapper.pdb
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\AutoMapper.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Net.Http.Formatting.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Web.Helpers.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Web.Http.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Web.Http.WebHost.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Web.Mvc.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Web.Razor.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Web.WebPages.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\System.Web.Optimization.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Newtonsoft.Json.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Unity.Abstractions.pdb
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Unity.Container.pdb
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Unity.Mvc.pdb
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\EntityFramework.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\EntityFramework.SqlServer.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.Owin.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.Owin.Security.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\obj\Debug\Library.Presentation.csprojAssemblyReference.cache
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\obj\Debug\Library.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\obj\Debug\Library.Presentation.csproj.CopyComplete
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\obj\Debug\Library.Presentation.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\LibraryPresentation\obj\Debug\Library.Presentation.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Library.Presentation.dll.config
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Library.Presentation.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Library.Presentation.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\csc.exe
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\csc.exe.config
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\csc.rsp
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\csi.exe
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\csi.exe.config
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\csi.rsp
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\System.AppContext.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\System.Console.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\vbc.exe
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\vbc.exe.config
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\vbc.rsp
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.Win32.Primitives.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\netstandard.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.AppContext.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Collections.Concurrent.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Collections.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Collections.NonGeneric.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Collections.Specialized.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.ComponentModel.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.ComponentModel.Primitives.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Console.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Data.Common.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Diagnostics.Contracts.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Diagnostics.Debug.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Diagnostics.Process.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Diagnostics.StackTrace.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Diagnostics.Tools.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Diagnostics.TraceSource.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Diagnostics.Tracing.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Drawing.Primitives.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Dynamic.Runtime.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Globalization.Calendars.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Globalization.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Globalization.Extensions.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.IO.Compression.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.IO.Compression.ZipFile.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.IO.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.IO.FileSystem.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.IO.IsolatedStorage.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.IO.Pipes.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Linq.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Linq.Expressions.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Linq.Parallel.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Linq.Queryable.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Net.Http.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Net.NameResolution.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Net.NetworkInformation.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Net.Ping.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Net.Primitives.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Net.Requests.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Net.Security.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Net.Sockets.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Net.WebHeaderCollection.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Net.WebSockets.Client.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Net.WebSockets.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.ObjectModel.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Reflection.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Reflection.Extensions.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Reflection.Primitives.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Resources.Reader.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Resources.ResourceManager.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Resources.Writer.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Runtime.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Runtime.Extensions.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Runtime.Handles.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Runtime.InteropServices.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Runtime.Numerics.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Runtime.Serialization.Json.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Security.Claims.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Security.Cryptography.Csp.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Security.Principal.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Security.SecureString.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Text.Encoding.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Text.Encoding.Extensions.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Text.RegularExpressions.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Threading.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Threading.Overlapped.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Threading.Tasks.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Threading.Thread.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Threading.ThreadPool.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Threading.Timer.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.ValueTuple.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Xml.ReaderWriter.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Xml.XDocument.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Xml.XmlDocument.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Xml.XmlSerializer.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Xml.XPath.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Xml.XPath.XDocument.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Antlr3.Runtime.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\AutoMapper.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\EntityFramework.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\EntityFramework.SqlServer.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\EventManager.Entity.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Library.Business.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Library.Core.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Library.Data.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.Owin.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.Owin.Security.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Newtonsoft.Json.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Owin.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Net.Http.Formatting.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Web.Helpers.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Web.Http.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Web.Http.WebHost.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Web.Mvc.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Web.Optimization.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Web.Razor.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Web.WebPages.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Unity.Abstractions.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Unity.Container.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Unity.Mvc.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\WebActivatorEx.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\WebGrease.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Library.Business.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Library.Business.dll.config
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Library.Core.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Library.Data.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Library.Data.dll.config
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\EventManager.Entity.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\EventManager.Entity.dll.config
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\AutoMapper.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\AutoMapper.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Net.Http.Formatting.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Web.Helpers.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Web.Http.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Web.Http.WebHost.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Web.Mvc.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Web.Razor.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Web.WebPages.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\System.Web.Optimization.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Newtonsoft.Json.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Unity.Abstractions.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Unity.Container.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Unity.Mvc.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\EntityFramework.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\EntityFramework.SqlServer.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.Owin.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.Owin.Security.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\obj\Debug\Library.Presentation.csprojAssemblyReference.cache
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\obj\Debug\Library.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\obj\Debug\Library.Presentation.csproj.CopyComplete
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\obj\Debug\Library.Presentation.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\LibraryPresentation\obj\Debug\Library.Presentation.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Library.Presentation.dll.config
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Library.Presentation.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Library.Presentation.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\csc.exe
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\csc.exe.config
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\csc.rsp
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\csi.exe
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\csi.exe.config
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\csi.rsp
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\System.Console.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\vbc.exe
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\vbc.exe.config
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\vbc.rsp
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.Win32.Primitives.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\netstandard.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.AppContext.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Collections.Concurrent.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Collections.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Collections.NonGeneric.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Collections.Specialized.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.ComponentModel.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.ComponentModel.Primitives.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Console.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Data.Common.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Diagnostics.Contracts.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Diagnostics.Debug.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Diagnostics.Process.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Diagnostics.StackTrace.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Diagnostics.Tools.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Diagnostics.TraceSource.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Diagnostics.Tracing.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Drawing.Primitives.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Dynamic.Runtime.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Globalization.Calendars.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Globalization.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Globalization.Extensions.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.IO.Compression.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.IO.Compression.ZipFile.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.IO.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.IO.FileSystem.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.IO.IsolatedStorage.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.IO.Pipes.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Linq.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Linq.Expressions.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Linq.Parallel.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Linq.Queryable.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Net.Http.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Net.NameResolution.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Net.NetworkInformation.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Net.Ping.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Net.Primitives.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Net.Requests.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Net.Security.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Net.Sockets.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Net.WebHeaderCollection.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Net.WebSockets.Client.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Net.WebSockets.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.ObjectModel.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Reflection.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Reflection.Extensions.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Reflection.Primitives.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Resources.Reader.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Resources.ResourceManager.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Resources.Writer.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Runtime.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Runtime.Extensions.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Runtime.Handles.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Runtime.InteropServices.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Runtime.Numerics.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Runtime.Serialization.Json.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Security.Claims.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Security.Cryptography.Csp.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Security.Principal.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Security.SecureString.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Text.Encoding.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Text.Encoding.Extensions.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Text.RegularExpressions.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Threading.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Threading.Overlapped.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Threading.Tasks.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Threading.Thread.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Threading.ThreadPool.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Threading.Timer.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.ValueTuple.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Xml.ReaderWriter.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Xml.XDocument.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Xml.XmlDocument.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Xml.XmlSerializer.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Xml.XPath.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Xml.XPath.XDocument.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\AutoMapper.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\EntityFramework.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\EventManager.Entity.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Library.Business.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Library.Core.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Library.Data.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.Owin.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.Owin.Security.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Owin.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Net.Http.Formatting.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Web.Helpers.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Web.Http.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Web.Http.WebHost.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Web.Mvc.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Web.Optimization.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Web.Razor.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Web.WebPages.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Unity.Abstractions.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Unity.Container.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Unity.Mvc.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\WebActivatorEx.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\WebGrease.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Library.Business.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Library.Business.dll.config
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Library.Core.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Library.Data.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Library.Data.dll.config
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\EventManager.Entity.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\EventManager.Entity.dll.config
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\AutoMapper.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\AutoMapper.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Net.Http.Formatting.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Web.Helpers.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Web.Http.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Web.Http.WebHost.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Web.Mvc.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Web.Razor.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Web.WebPages.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\System.Web.Optimization.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Unity.Abstractions.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Unity.Container.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Unity.Mvc.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\EntityFramework.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.Owin.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.Owin.Security.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\obj\Debug\Library.Presentation.csprojAssemblyReference.cache
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\obj\Debug\Library.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\obj\Debug\Library.Presentation.csproj.CopyComplete
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\obj\Debug\Library.Presentation.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Presentation\obj\Debug\Library.Presentation.pdb

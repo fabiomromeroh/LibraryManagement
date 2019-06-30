@@ -97,10 +97,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\EventManager.Entity\Library.Entity.csproj">
-      <Project>{1A26639C-CDF0-4CB7-BDCF-229D913557D5}</Project>
-      <Name>Library.Entity</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Library.Core\Library.Core.csproj">
       <Project>{5BEF735E-279A-49A1-A97C-1014D665AACD}</Project>
       <Name>Library.Core</Name>
@@ -108,6 +104,10 @@
     <ProjectReference Include="..\Library.Data\Library.Data.csproj">
       <Project>{00642BA2-AC6D-4C70-AEA3-38AA0DE62A6F}</Project>
       <Name>Library.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Library.Entity\Library.Entity.csproj">
+      <Project>{DF5F78B3-DBC4-4EAE-9120-ABEEBAC31042}</Project>
+      <Name>Library.Entity</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup />

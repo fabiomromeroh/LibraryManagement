@@ -63,21 +63,9 @@
     <Compile Include="Contracts\IBorrowRepository.cs" />
     <Compile Include="Implementations\BookRepository.cs" />
     <Compile Include="Implementations\BorrowRepository.cs" />
-    <Compile Include="Migrations\201906291516314_Initial.cs" />
-    <Compile Include="Migrations\201906291516314_Initial.Designer.cs">
-      <DependentUpon>201906291516314_Initial.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201906291643551_BookBookingUser.cs" />
-    <Compile Include="Migrations\201906291643551_BookBookingUser.Designer.cs">
-      <DependentUpon>201906291643551_BookBookingUser.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201906291800210_BookingChanges.cs" />
-    <Compile Include="Migrations\201906291800210_BookingChanges.Designer.cs">
-      <DependentUpon>201906291800210_BookingChanges.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201906301928103_BookingRename.cs" />
-    <Compile Include="Migrations\201906301928103_BookingRename.Designer.cs">
-      <DependentUpon>201906301928103_BookingRename.cs</DependentUpon>
+    <Compile Include="Migrations\201906302155202_Initial.cs" />
+    <Compile Include="Migrations\201906302155202_Initial.Designer.cs">
+      <DependentUpon>201906302155202_Initial.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -86,25 +74,15 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
-    <ProjectReference Include="..\EventManager.Entity\Library.Entity.csproj">
-      <Project>{1A26639C-CDF0-4CB7-BDCF-229D913557D5}</Project>
+    <ProjectReference Include="..\Library.Entity\Library.Entity.csproj">
+      <Project>{DF5F78B3-DBC4-4EAE-9120-ABEEBAC31042}</Project>
       <Name>Library.Entity</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201906291516314_Initial.resx">
-      <DependentUpon>201906291516314_Initial.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201906291643551_BookBookingUser.resx">
-      <DependentUpon>201906291643551_BookBookingUser.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201906291800210_BookingChanges.resx">
-      <DependentUpon>201906291800210_BookingChanges.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201906301928103_BookingRename.resx">
-      <DependentUpon>201906301928103_BookingRename.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201906302155202_Initial.resx">
+      <DependentUpon>201906302155202_Initial.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

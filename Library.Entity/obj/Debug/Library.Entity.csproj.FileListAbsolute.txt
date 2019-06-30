@@ -1,0 +1,34 @@
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\EventManager.Entity\bin\Debug\EventManager.Entity.dll.config
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\EventManager.Entity\bin\Debug\EventManager.Entity.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\EventManager.Entity\bin\Debug\EventManager.Entity.pdb
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\EventManager.Entity\bin\Debug\EntityFramework.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\EventManager.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\EventManager.Entity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\EventManager.Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\EventManager.Entity\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\EventManager.Entity\bin\Debug\EntityFramework.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\EventManager.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\EventManager.Entity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\EventManager.Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\EventManager.Entity\obj\Debug\Library.Entity.csprojAssemblyReference.cache
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\EventManager.Entity\obj\Debug\Library.Entity.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\EventManager.Entity\obj\Debug\Library.Entity.csproj.CopyComplete
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\EventManager.Entity\obj\Debug\EventManager.Entity.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\EventManager.Entity\obj\Debug\EventManager.Entity.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Entity\bin\Debug\EventManager.Entity.dll.config
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Entity\bin\Debug\EventManager.Entity.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Entity\bin\Debug\EventManager.Entity.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Entity\bin\Debug\EntityFramework.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Entity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Entity\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Entity\bin\Debug\EntityFramework.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Entity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Entity\obj\Debug\Library.Entity.csprojAssemblyReference.cache
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Entity\obj\Debug\Library.Entity.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Entity\obj\Debug\Library.Entity.csproj.CopyComplete
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Entity\obj\Debug\EventManager.Entity.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Entity\obj\Debug\EventManager.Entity.pdb

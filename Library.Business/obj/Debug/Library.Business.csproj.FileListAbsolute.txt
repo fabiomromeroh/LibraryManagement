@@ -1,0 +1,78 @@
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Library.Business.dll.config
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Library.Business.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Library.Business.pdb
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\EntityFramework.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\EventManager.Entity.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Library.Core.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Library.Data.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Microsoft.Owin.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Owin.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Unity.Abstractions.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\EventManager.Entity.pdb
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\EventManager.Entity.dll.config
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Library.Core.pdb
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Library.Data.pdb
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Library.Data.dll.config
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\EntityFramework.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Microsoft.Owin.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\bin\Debug\Unity.Abstractions.pdb
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\obj\Debug\Library.Business.csprojAssemblyReference.cache
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\obj\Debug\Library.Business.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\obj\Debug\Library.Business.csproj.CopyComplete
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\obj\Debug\Library.Business.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Business\obj\Debug\Library.Business.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Library.Business.dll.config
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Library.Business.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Library.Business.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\EntityFramework.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\EventManager.Entity.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Library.Core.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Library.Data.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Microsoft.Owin.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Owin.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Unity.Abstractions.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Library.Core.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Library.Data.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Library.Data.dll.config
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\EventManager.Entity.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\EventManager.Entity.dll.config
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\EntityFramework.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Microsoft.Owin.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\bin\Debug\Unity.Abstractions.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\obj\Debug\Library.Business.csprojAssemblyReference.cache
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\obj\Debug\Library.Business.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\obj\Debug\Library.Business.csproj.CopyComplete
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\obj\Debug\Library.Business.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Business\obj\Debug\Library.Business.pdb

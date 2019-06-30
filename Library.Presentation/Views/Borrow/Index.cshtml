@@ -1,0 +1,109 @@
+﻿@model IEnumerable<Library.Presentation.Models.BookModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+@if (ViewBag.UserLogged)
+{
+    <h2>Books</h2>
+
+    <table class="table">
+        <tr>
+            <th hidden>
+                @Html.DisplayNameFor(model => model.BookID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Genre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Publisher)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Author)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td hidden>
+                    @Html.DisplayFor(modelItem => item.BookID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Genre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Publisher)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Author)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    <a data-toggle="modal" onclick="localStorage.setItem('bookId', @(item.BookID));" data-target="#myModal" data-id="modelItem.BookID">Borrow</a>
+                </td>
+            </tr>
+        }
+
+    </table>
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Borrowing</h4>
+                </div>
+                <div class="modal-body">
+                    <p>Do you want to borrow this book?</p>
+                </div>
+                <div class="modal-footer">
+                    <button onclick="borrowBook();" type="button" data-dismiss="modal" class="btn btn-primary">Yes</button>
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">No</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    @section scripts
+{
+        <script>
+            $(document).ready(function () {
+
+                borrowBook = function () {
+                    var id = localStorage.getItem("bookId");
+                    $.ajax({
+                        method: "GET",
+                        url: "/Borrow/BorrowBook/" + id
+                    })
+                        .done(function (msg) {
+                            location.reload();
+                            alert(msg);
+                        });
+                }
+            });
+        </script>
+    }
+}
+else
+{
+    <h2>Login to borrow</h2>
+
+}

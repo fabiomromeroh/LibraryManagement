@@ -16,7 +16,7 @@ namespace Library.Data
         {
             using (var Context = new LibraryContext())
             {
-                return Context.Booking.Include(x => x.Book).Where(x => x.UserId == userId).ToList();
+                return Context.BorrowedBook.Include(x => x.Book).Where(x => x.UserId == userId).ToList();
             }
         }
     }

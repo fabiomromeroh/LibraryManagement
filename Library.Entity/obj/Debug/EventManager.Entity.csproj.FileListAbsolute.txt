@@ -1,0 +1,8 @@
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\EventManagementSolution\EventManager.Entity\bin\Debug\EventManager.Entity.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\EventManagementSolution\EventManager.Entity\bin\Debug\EventManager.Entity.pdb
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\EventManagementSolution\EventManager.Entity\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\EventManagementSolution\EventManager.Entity\obj\Debug\EventManager.Entity.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\EventManagementSolution\EventManager.Entity\obj\Debug\EventManager.Entity.csproj.CopyComplete
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\EventManagementSolution\EventManager.Entity\obj\Debug\EventManager.Entity.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\EventManagementSolution\EventManager.Entity\obj\Debug\EventManager.Entity.pdb
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\EventManagementSolution\EventManager.Entity\obj\Debug\EventManager.Entity.csprojAssemblyReference.cache

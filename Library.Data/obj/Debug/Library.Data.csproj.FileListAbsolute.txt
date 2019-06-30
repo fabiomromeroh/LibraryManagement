@@ -1,0 +1,45 @@
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Data\bin\Debug\Library.Data.dll.config
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Data\bin\Debug\Library.Data.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Data\bin\Debug\Library.Data.pdb
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Data\bin\Debug\EntityFramework.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Data\bin\Debug\EventManager.Entity.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Data\bin\Debug\EventManager.Entity.pdb
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Data\bin\Debug\EventManager.Entity.dll.config
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Data\bin\Debug\EntityFramework.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Data\obj\Debug\Library.Data.csprojAssemblyReference.cache
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Data\obj\Debug\Library.Data.Migrations.Initial.resources
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Data\obj\Debug\Library.Data.Migrations.BookBookingUser.resources
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Data\obj\Debug\Library.Data.Migrations.BookingChanges.resources
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Data\obj\Debug\Library.Data.Migrations.BookingRename.resources
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Data\obj\Debug\Library.Data.csproj.GenerateResource.cache
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Data\obj\Debug\Library.Data.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Data\obj\Debug\Library.Data.csproj.CopyComplete
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Data\obj\Debug\Library.Data.dll
+C:\Users\fabio\Documents\Visual Studio 2017\Projects\LibrarySolution\Library.Data\obj\Debug\Library.Data.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\bin\Debug\Library.Data.dll.config
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\bin\Debug\Library.Data.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\bin\Debug\Library.Data.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\bin\Debug\EntityFramework.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\bin\Debug\EventManager.Entity.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\bin\Debug\EventManager.Entity.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\bin\Debug\EventManager.Entity.dll.config
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\bin\Debug\EntityFramework.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\obj\Debug\Library.Data.csprojAssemblyReference.cache
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\obj\Debug\Library.Data.Migrations.Initial.resources
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\obj\Debug\Library.Data.csproj.GenerateResource.cache
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\obj\Debug\Library.Data.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\obj\Debug\Library.Data.csproj.CopyComplete
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\obj\Debug\Library.Data.dll
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\obj\Debug\Library.Data.pdb
