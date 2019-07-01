@@ -28,34 +28,40 @@
             <th>
                 @Html.DisplayNameFor(model => model.Description)
             </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Stock)
+            </th>
             <th></th>
         </tr>
 
         @foreach (var item in Model)
         {
-            <tr>
-                <td hidden>
-                    @Html.DisplayFor(modelItem => item.BookID)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Name)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Genre)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Publisher)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Author)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Description)
-                </td>
-                <td>
-                    <a data-toggle="modal" onclick="localStorage.setItem('bookId', @(item.BookID));" data-target="#myModal" data-id="modelItem.BookID">Borrow</a>
-                </td>
-            </tr>
+        <tr>
+            <td hidden>
+                @Html.DisplayFor(modelItem => item.BookID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Genre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Publisher)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Stock)
+            </td>
+            <td>
+                <a data-toggle="modal" onclick="localStorage.setItem('bookId', @(item.BookID));" data-target="#myModal" data-id="modelItem.BookID">Borrow</a>
+            </td>
+        </tr>
         }
 
     </table>
@@ -71,10 +77,21 @@
                     <h4 class="modal-title">Borrowing</h4>
                 </div>
                 <div class="modal-body">
-                    <p>Do you want to borrow this book?</p>
+                    <div class="row">
+                        <div class="col-md-3">
+                            <label>Quantity</label>
+                            <input class="form-control" type="number" min="0" id="quantity" />
+                        </div>
+                        <div class="col-md-3">
+                            <label>Days</label>
+                            <input class="form-control" type="number" min="0" id="days" />
+                        </div>
+                    </div>
+
+
                 </div>
                 <div class="modal-footer">
-                    <button onclick="borrowBook();" type="button" data-dismiss="modal" class="btn btn-primary">Yes</button>
+                    <button onclick="borrowBook();" type="button" data-dismiss="modal" class="btn btn-primary">Save</button>
                     <button type="button" class="btn btn-secondary" data-dismiss="modal">No</button>
                 </div>
             </div>
@@ -89,9 +106,15 @@
 
                 borrowBook = function () {
                     var id = localStorage.getItem("bookId");
+                    var quantity = $('#quantity').val();
+                    var days = $('#days').val();
+                    var data = { BookID: parseInt(id), Quantity: parseInt(quantity), Days: parseInt(days) };
                     $.ajax({
-                        method: "GET",
-                        url: "/Borrow/BorrowBook/" + id
+                        method: "POST",
+                        dataType: 'json',
+                        contentType: 'application/json',
+                        data: JSON.stringify(data),
+                        url: "/Borrow/BorrowBook" 
                     })
                         .done(function (msg) {
                             location.reload();

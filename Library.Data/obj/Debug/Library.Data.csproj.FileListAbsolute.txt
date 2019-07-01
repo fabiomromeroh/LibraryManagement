@@ -43,3 +43,5 @@ C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\obj\Debug\Library.Dat
 C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\obj\Debug\Library.Data.csproj.CopyComplete
 C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\obj\Debug\Library.Data.dll
 C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\obj\Debug\Library.Data.pdb
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\obj\Debug\Library.Data.Migrations.ModelChanges.resources
+C:\Users\fabio\Source\Repos\LibraryManagement\Library.Data\obj\Debug\Library.Data.Migrations.ModelChanges2.resources

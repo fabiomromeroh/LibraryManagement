@@ -26,19 +26,20 @@ namespace LibraryPresentation.Controllers
             //I get the current user.
             ViewBag.UserLogged = User.Identity.GetUserId() != null;
             //We get all non borrowed books 
-            var books = this.bookLogic.Find(x => !x.Booked).ToList();
+            var books = this.bookLogic.GetAll().ToList();
             //We map the Book entity to BookModel class using AutoMapper. 
             var booksModel = ControllerProfile.Mapper.Map<List<Book>, List<BookModel>>(books);
             return View(booksModel);
         }
 
-        public JsonResult BorrowBook(int id)
+        [HttpPost]
+        public JsonResult BorrowBook(BorrowBookModel borrowBookModel)
         {
             var result = "Ok";
             try
             {
                 var userId = User.Identity.GetUserId();
-                this.borrowLogic.BorrowBook(id, userId);
+                this.borrowLogic.BorrowBook(borrowBookModel.BookID, userId, borrowBookModel.Quantity, borrowBookModel.Days);
 
             }
             catch(ValidationException e)
@@ -50,5 +51,23 @@ namespace LibraryPresentation.Controllers
 
         }
 
+        
+        public JsonResult ReturnBook(int id)
+        {
+            var result = "Ok";
+            try
+            {
+                var userId = User.Identity.GetUserId();
+                this.borrowLogic.ReturnBook(id);
+
+            }
+            catch (ValidationException e)
+            {
+                result = e.Message;
+            }
+
+            return Json(result, JsonRequestBehavior.AllowGet);
+
+        }
     }
 }

@@ -1,5 +1,7 @@
 ﻿@model List<Library.Presentation.Models.BorrowedBookModel>
 @{
+    /**/
+
     ViewBag.Title = "Library Home";
 }
 
@@ -24,26 +26,54 @@
                         <th>Genre</th>
                         <th>Publisher</th>
                         <th>Borrowed Date</th>
+                        <th>Days</th>
                         <th></th>
                     </tr>
                 </thead>
                 <tbody id="dataBody">
                     @foreach (var e in Model)
                     {
-                        <tr>
-                            <td hidden>@e.BorrowedBookID</td>
-                            <td>@e.Book.Name</td>
-                            <td>@e.Book.Author</td>
-                            <td>@e.Book.Genre</td>
-                            <td>@e.Book.Publisher</td>
-                            <td>@e.Date</td>
-                        </tr>
+                    <tr>
+                        <td hidden>@e.BorrowedBookID</td>
+                        <td>@e.Book.Name</td>
+                        <td>@e.Book.Author</td>
+                        <td>@e.Book.Genre</td>
+                        <td>@e.Book.Publisher</td>
+                        <td>@e.Date</td>
+                        <td>@e.Days</td>
+                        <td>
+                            <a data-toggle="modal" onclick="localStorage.setItem('borrowedBookID', @(e.BorrowedBookID));" data-target="#myModal" data-id="modelItem.BookID">Return</a>
+                        </td>
+                    </tr>
                     }
                 </tbody>
 
             </table>
         </div>
 
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Return</h4>
+                </div>
+                <div class="modal-body">
+                    <p>do you want to return the books?</p>
+
+                </div>
+                <div class="modal-footer">
+                    <button onclick="returnBook();" type="button" data-dismiss="modal" class="btn btn-primary">Yes</button>
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">No</button>
+                </div>
+            </div>
+
+        </div>
     </div>
 }
 else
@@ -54,4 +84,24 @@ else
 
         </div>
     </div>
+}
+
+@section scripts
+{
+    <script>
+        $(document).ready(function () {
+
+            returnBook = function () {
+                var id = localStorage.getItem("borrowedBookID");
+                $.ajax({
+                    method: "GET",
+                    url: "/Borrow/ReturnBook/" + id
+                })
+                    .done(function (msg) {
+                        location.reload();
+                        alert(msg);
+                    });
+            }
+        });
+    </script>
 }

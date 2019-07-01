@@ -14,6 +14,7 @@ namespace Library.Presentation.Models
         public string UserId { get; set; }
         public string Description { get; set; }
         public string Date { get; set; }
+        public int Days { get; set; }
 
         public virtual BookModel Book { get; set; }
     }

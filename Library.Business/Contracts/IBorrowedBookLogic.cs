@@ -11,6 +11,7 @@ namespace Library.Business
     public interface IBorrowedBookLogic: IBaseLogic<BorrowedBook>
     {
         List<BorrowedBook> GetBorrowedBooksByUser(string userId);
-        void BorrowBook(int bookId, string userId);
+        void BorrowBook(int bookId, string userId, int quantity, int days);
+        void ReturnBook(int id);
     }
 }

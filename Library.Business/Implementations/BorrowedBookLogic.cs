@@ -5,6 +5,7 @@ using Library.Data;
 using Library.Entity;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Transactions;
 
 namespace Library.Business
@@ -25,7 +26,7 @@ namespace Library.Business
         /// </summary>
         /// <param name="bookId">Book to borrow</param>
         /// <param name="userId">Logged user</param>
-        public void BorrowBook(int bookId, string userId)
+        public void BorrowBook(int bookId, string userId, int quantity, int days)
         {
             using (var transaction = new TransactionScope())
             {
@@ -35,14 +36,31 @@ namespace Library.Business
                     throw new ValidationException(result.ValidationResultsLog);
 
                 var book = this.bookRepository.Get(bookId);
-                book.Booked = true;
+                book.Stock = book.Stock - quantity;
                 this.bookRepository.Update(book);
 
-                this.borrowRepository.Add(new BorrowedBook() { BookID = bookId, Date = DateTime.Now, UserId = userId });
+                this.borrowRepository.Add(new BorrowedBook() { BookID = bookId, Date = DateTime.Now, UserId = userId, Days = days, Active = true, Quantity = quantity });
 
                 transaction.Complete();
             }
         }
+
+        public void ReturnBook(int borrowedBookId)
+        {
+            using (var transaction = new TransactionScope())
+            {
+                var borrowedBook = this.borrowRepository.Find(x => x.BorrowedBookID == borrowedBookId).FirstOrDefault();
+
+                var book = this.bookRepository.Get(borrowedBook.BookID);
+                book.Stock = book.Stock + borrowedBook.Quantity;
+                this.bookRepository.Update(book);
+                borrowedBook.Active = false;
+                this.borrowRepository.Update(borrowedBook);
+
+                transaction.Complete();
+            }
+        }
+
         /// <summary>
         /// Return borrowed books by user.
         /// </summary>
