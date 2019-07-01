@@ -1,4 +1,4 @@
-﻿using Data;
+﻿using Business;
 using Library.Entity;
 using System;
 using System.Collections.Generic;
@@ -6,10 +6,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Library.Data
+namespace Library.Business
 {
-    public interface IBorrowRepository: IBaseRepository<BorrowedBook>
+    public interface IBorrowedBookLogic: IBaseLogic<BorrowedBook>
     {
         List<BorrowedBook> GetBorrowedBooksByUser(string userId);
+        void BorrowBook(int bookId, string userId);
     }
 }

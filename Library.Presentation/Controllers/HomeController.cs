@@ -15,9 +15,9 @@ namespace Library.Presentation.Controllers
     public class HomeController : Controller
     {
 
-        private readonly IBorrowLogic borrowLogic;
+        private readonly IBorrowedBookLogic borrowLogic;
 
-        public HomeController(IBorrowLogic borrowLogic)
+        public HomeController(IBorrowedBookLogic borrowLogic)
         {
             this.borrowLogic = borrowLogic;
         }

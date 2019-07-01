@@ -82,10 +82,10 @@
     <Compile Include="Base\BaseLogic.cs" />
     <Compile Include="Base\DependencyResolver.cs" />
     <Compile Include="Base\IBaseLogic.cs" />
-    <Compile Include="Contracts\IBookingLogic.cs" />
     <Compile Include="Contracts\IBookLogic.cs" />
+    <Compile Include="Contracts\IBorrowedBookLogic.cs" />
     <Compile Include="Implementations\BookLogic.cs" />
-    <Compile Include="Implementations\BorrowLogic.cs" />
+    <Compile Include="Implementations\BorrowedBookLogic.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Validators\BorrowValidator.cs" />
   </ItemGroup>

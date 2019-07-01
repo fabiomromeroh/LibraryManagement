@@ -9,17 +9,22 @@ using System.Transactions;
 
 namespace Library.Business
 {
-    public class BorrowLogic : BaseLogic<BorrowedBook, BorrowRepository>, IBorrowLogic
+    public class BorrowedBookLogic : BaseLogic<BorrowedBook, BorrowedBookRepository>, IBorrowedBookLogic
     {
-        private readonly IBorrowRepository borrowRepository;
+        private readonly IBorrowedBookRepository borrowRepository;
         private readonly IBookRepository bookRepository;
 
-        public BorrowLogic(IBorrowRepository borrowRepository, IBookRepository bookRepository)
+        public BorrowedBookLogic(IBorrowedBookRepository borrowRepository, IBookRepository bookRepository)
         {
             this.borrowRepository = borrowRepository;
             this.bookRepository = bookRepository;
         }
 
+        /// <summary>
+        /// Save a borrowed book and update the book state. 
+        /// </summary>
+        /// <param name="bookId">Book to borrow</param>
+        /// <param name="userId">Logged user</param>
         public void BorrowBook(int bookId, string userId)
         {
             using (var transaction = new TransactionScope())
@@ -38,7 +43,11 @@ namespace Library.Business
                 transaction.Complete();
             }
         }
-
+        /// <summary>
+        /// Return borrowed books by user.
+        /// </summary>
+        /// <param name="userId">Logged user</param>
+        /// <returns>List of borrowed books</returns>
         public List<BorrowedBook> GetBorrowedBooksByUser(string userId)
         {
             return this.borrowRepository.GetBorrowedBooksByUser(userId);

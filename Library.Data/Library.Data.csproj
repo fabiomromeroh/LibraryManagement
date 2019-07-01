@@ -60,9 +60,9 @@
     <Compile Include="Base\ISuperBaseRepository.cs" />
     <Compile Include="Base\SuperBaseRepository.cs" />
     <Compile Include="Contracts\IBookRepository.cs" />
-    <Compile Include="Contracts\IBorrowRepository.cs" />
+    <Compile Include="Contracts\IBorrowedBookRepository.cs" />
     <Compile Include="Implementations\BookRepository.cs" />
-    <Compile Include="Implementations\BorrowRepository.cs" />
+    <Compile Include="Implementations\BorrowedBookRepository.cs" />
     <Compile Include="Migrations\201906302155202_Initial.cs" />
     <Compile Include="Migrations\201906302155202_Initial.Designer.cs">
       <DependentUpon>201906302155202_Initial.cs</DependentUpon>

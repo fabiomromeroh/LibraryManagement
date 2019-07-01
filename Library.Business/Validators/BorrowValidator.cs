@@ -10,6 +10,7 @@ namespace Library.Business.Validators
 {
     public class BorrowValidator : BusinessValidator<BorrowedBook>
     {
+        //Here we override the inherited method DoValidate from the  BusinessValidator and we execute all the validation methods.
         public override void DoValidate()
         {
             this.ValidateBorrowing(base.BusinessEntity);
@@ -18,6 +19,7 @@ namespace Library.Business.Validators
         private void ValidateBorrowing(BorrowedBook borrowedBook)
         {
             //base.LogValidationResult("Error message");
+
             //Business rules Validation
         }
     }

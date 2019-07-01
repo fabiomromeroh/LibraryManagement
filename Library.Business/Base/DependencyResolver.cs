@@ -14,9 +14,9 @@ namespace Business.Base
     {
         public void SetUp(IRegisterComponent registerComponent)
         {
-
-            registerComponent.RegisterType<IBorrowLogic, BorrowLogic>();
-            registerComponent.RegisterType<IBorrowRepository, BorrowRepository>();
+            //Here we register all the components. 
+            registerComponent.RegisterType<IBorrowedBookLogic, BorrowedBookLogic>();
+            registerComponent.RegisterType<IBorrowedBookRepository, BorrowedBookRepository>();
 
             registerComponent.RegisterType<IBookLogic, BookLogic>();
             registerComponent.RegisterType<IBookRepository, BookRepository>();

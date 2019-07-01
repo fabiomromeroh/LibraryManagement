@@ -10,6 +10,7 @@ namespace Data.Base
     public interface ISuperBaseRepository<T>
          where T : class, new()
     {
+        //Here we define all the signatures.
         T Add(T entity);
         void AddRange(IEnumerable<T> entities);
         void Remove(T entity);

@@ -10,8 +10,13 @@ using System.Data.Entity;
 
 namespace Library.Data
 {
-    public class BorrowRepository : BaseRepository<BorrowedBook>, IBorrowRepository
+    public class BorrowedBookRepository : BaseRepository<BorrowedBook>, IBorrowedBookRepository
     {
+        /// <summary>
+        /// Return all borrowed books by user.
+        /// </summary>
+        /// <param name="userId">Logged User</param>
+        /// <returns></returns>
         public List<BorrowedBook> GetBorrowedBooksByUser(string userId)
         {
             using (var Context = new LibraryContext())

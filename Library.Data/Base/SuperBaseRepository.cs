@@ -8,6 +8,11 @@ using System.Threading.Tasks;
 
 namespace Data.Base
 {
+    /// <summary>
+    /// Implementation of all the generic methods in order to reuse code. 
+    /// </summary>
+    /// <typeparam name="C">Context</typeparam>
+    /// <typeparam name="T">Entity</typeparam>
     public abstract class SuperBaseRepository<C, T> : ISuperBaseRepository<T>
         where C : LibraryContext, new()
         where T : class, new()

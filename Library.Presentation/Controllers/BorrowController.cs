@@ -12,10 +12,10 @@ namespace LibraryPresentation.Controllers
 {
     public class BorrowController : Controller
     {
-        private readonly IBorrowLogic borrowLogic;
+        private readonly IBorrowedBookLogic borrowLogic;
         private readonly IBookLogic bookLogic;
 
-        public BorrowController(IBorrowLogic borrowLogic, IBookLogic bookLogic)
+        public BorrowController(IBorrowedBookLogic borrowLogic, IBookLogic bookLogic)
         {
             this.borrowLogic = borrowLogic;
             this.bookLogic = bookLogic;
@@ -25,8 +25,9 @@ namespace LibraryPresentation.Controllers
         {
             //I get the current user.
             ViewBag.UserLogged = User.Identity.GetUserId() != null;
-
+            //We get all non borrowed books 
             var books = this.bookLogic.Find(x => !x.Booked).ToList();
+            //We map the Book entity to BookModel class using AutoMapper. 
             var booksModel = ControllerProfile.Mapper.Map<List<Book>, List<BookModel>>(books);
             return View(booksModel);
         }

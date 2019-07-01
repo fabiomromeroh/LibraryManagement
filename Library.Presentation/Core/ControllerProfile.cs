@@ -12,7 +12,7 @@ namespace Library.Presentation.Core
         {
             var MapperConfiguration = new MapperConfiguration(cfg =>
             {
-                
+                //here we defind all the maps.
                 cfg.CreateMap<BorrowedBook, BorrowedBookModel>()
                 .ForMember(dto => dto.Book, opt => opt.MapFrom(src => src.Book))
                 .ReverseMap();
